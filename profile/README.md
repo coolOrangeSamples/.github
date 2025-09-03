@@ -27,7 +27,7 @@ Find samples by topic:
 - [PDF](https://github.com/search?q=topic%3Apdf+org%3AcoolOrangeSamples&type=Repositories) 
 - [Upload](https://github.com/search?q=topic%3Aupload+org%3AcoolOrangeSamples&type=Repositories) 
 - [ACC](https://github.com/search?q=topic%3Aacc+org%3AcoolOrangeSamples&type=Repositories) 
-- [Transmittal](https://github.com/search?q=topic%3Atransmittal+org%3AcoolOrangeSamples&type=Repositories)
+- [Transmittals](https://github.com/search?q=topic%3Atransmittals+org%3AcoolOrangeSamples&type=Repositories)
 
 Or check the [complete list of all samples](https://github.com/orgs/coolOrangeSamples/repositories)!
 
