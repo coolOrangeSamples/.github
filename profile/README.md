@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/coolOrangeSamples/.github/blob/main/Logo_Dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/coolOrangeSamples/.github/blob/main/Logo_Light.png">
-  <img alt="Autodesk Platform Services" src="https://github.com/coolOrangeSamples/.github/blob/main/Logo_Light.png">
+  <img alt="COOLORANGE" src="https://github.com/coolOrangeSamples/.github/blob/main/Logo_Light.png" width="300">
 </picture>
 
 ## COOLORANGE Samples
