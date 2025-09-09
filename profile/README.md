@@ -14,7 +14,8 @@ This GitHub site offers customization quick-start samples to customize and exten
 
 Find samples by product:
 
-- [powerJobs](https://github.com/search?q=topic%3Apowerjobs+org%3AcoolOrangeSamples&type=Repositories)
+- [powerJobs Processor](https://github.com/search?q=topic%3Apowerjobs-processor+org%3AcoolOrangeSamples&type=Repositories)
+- [powerJobs Client](https://github.com/search?q=topic%3Apowerjobs-client+org%3AcoolOrangeSamples&type=Repositories)
 - [powerGate](https://github.com/search?q=topic%3Apowergate+org%3AcoolOrangeSamples&type=Repositories)
 - [powerPLM](https://github.com/search?q=topic%3Apowerplm+org%3AcoolOrangeSamples&type=Repositories)
 - [powerAps](https://github.com/search?q=topic%3Apoweraps+org%3AcoolOrangeSamples&type=Repositories)
